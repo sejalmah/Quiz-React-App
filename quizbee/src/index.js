@@ -57,7 +57,7 @@ class QuizBee extends Component {
                    )
                )}
 
-               {this.state.responses===5 ? (<Result score={this.state.score} playAgain={this.state.playAgain}/>) : null }
+               {this.state.responses===5 ? (<Result score={this.state.score} />) : null }
             </div>
         );
         }  
