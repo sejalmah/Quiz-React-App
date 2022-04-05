@@ -1,5 +1,6 @@
 # Quiz-React-App
 Simple quiz application which generates a random set of 5 questions during each game and calculates and displays the total number of correct answers
+Live Project can be found at : https://quizzbeee.web.app/
 
 Snippets from the project :
 
