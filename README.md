@@ -7,7 +7,7 @@ Main page that contains 5 random set of questions
 
 ![MainPage](https://user-images.githubusercontent.com/72298689/161800918-e8fae3c7-9297-41cc-a220-4400b3632690.png)
 
-Answers selected for questions
+Answers selected for first three questions
 
 ![AnswersSelect](https://user-images.githubusercontent.com/72298689/161800935-6c6f75bb-91da-4ea0-8f2b-a7a34ccb48b0.png)
 
